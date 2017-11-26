@@ -43,7 +43,7 @@ b. Doing a sum of deaths count per country. In this table we had multiple entrie
  
 **Screenshot**
  
-![alt text](./images/bubble.png "Bubble")
+![alt text](./images/Bubble.png "Bubble")
  
  
 3. **Bar Chart** Visualizes the death count for each country using bars. X axis represents the 3 digit ISO country code and Y axis represents the death count. Log scale was use to represent the y axis death count, as for some countries the count was as small as 200 and for some it was in millions. The below function from d3 was used to scale the y axis: 
