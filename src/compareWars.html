@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Data visualization on world war deaths.">
+    <meta name="author" content="Javed Shaikh">
+
+    <title>Compare Wars</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    <link href="./css/d3.geomap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./css/worldwardatavisualization.css" />
+    <style>
+        text {
+            font-size: 12px;
+            fill: white;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+                    aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+                <a class="navbar-brand" href="./cover.html">World War Data Visualization</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav nav-pills">
+                    <li role="presentation"><a href="./worldmap.html">World Map</a></li>
+                    <li role="presentation"><a href="./bubbleChart.html">Bubble Chart</a></li>
+                    <li role="presentation"><a href=" ./barChart.html ">Bar Chart</a></li>
+                    <li role="presentation" class="active"><a href=" ./compareWars.html">Compare Wars</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="bubble-chart-container container-fluid">
+        <h2 class="dv-title">Compare Wars</h2>
+        <div class="visualization-main">
+            <svg width="380" height="500"></svg>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js "></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js " integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa "
+        crossorigin="anonymous "></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js "></script>
+    <script type="text/javascript" src="./js/d3-tip.js "></script>
+    <script type="text/javascript" src="./js/toolTip.js "></script>
+    <script type="text/javascript" src="./js/compareWars.js "></script>
+</body>
+
+</html>

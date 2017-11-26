@@ -1,0 +1,639 @@
+Nationality,Location,StartDate,EndDate,MinDeaths,MaxDeaths,DeathsOverride,DeathsFinal,AirRate,CivilianRate,IntentionalRate,Tags,AirForce
+United States,,12/1/1941,12/31/1941,493,493,668.0649463,493,,0,,,
+United States,,1/1/1942,1/31/1942,517,517,700.5873778,517,,0,,,army
+United States,,2/1/1942,2/29/1942,398,398,539.3303218,398,,0,,,army
+United States,,3/1/1942,3/31/1942,135,135,182.938677,135,,0,,,army
+United States,,4/1/1942,4/30/1942,"1,051","1,051",1424.211478,1051,,0,,,army
+United States,,5/1/1942,5/31/1942,"12,311","12,311",16682.65224,12311,,0,,,army
+United States,,6/1/1942,6/30/1942,184,184,249.3386412,184,,0,,,army
+United States,,7/1/1942,7/31/1942,159,159,215.4611084,159,,0,,,army
+United States,,8/1/1942,8/31/1942,143,143,193.7794875,143,,0,,,army
+United States,,9/1/1942,9/31/1942,137,137,185.6488796,137,,0,,,army
+United States,,10/1/1942,10/31/1942,181,181,245.2733373,181,,0,,,army
+United States,,11/1/1942,11/30/1942,"1,256","1,256",1702.007247,1256,,0,,,army
+United States,,12/1/1942,12/31/1942,"1,140","1,140",1544.815494,1140,,0,,,army
+United States,,1/1/1943,1/31/1943,"1,227","1,227",1662.709309,1227,,0,,,army
+United States,,2/1/1943,2/28/1943,"1,425","1,425",1931.019368,1425,,0,,,army
+United States,,3/1/1943,3/31/1943,"1,079","1,079",1462.154314,1079,,0,,,army
+United States,,4/1/1943,4/30/1943,"1,342","1,342",1818.545959,1342,,0,,,army
+United States,,5/1/1943,5/31/1943,"1,560","1,560",2113.958045,1560,,0,,,army
+United States,,6/1/1943,6/30/1943,731,731,990.5790583,731,,0,,,army
+United States,,7/1/1943,7/31/1943,"3,141","3,141",4256.373218,3141,,0,,,army
+United States,,8/1/1943,8/31/1943,"2,150","2,150",2913.467819,2150,,0,,,army
+United States,,9/1/1943,9/30/1943,"1,678","1,678",2273.86,1678,,0,,,army
+United States,,10/1/1943,10/31/1943,"2,033","2,033",2754.920965,2033,,0,,,army
+United States,,11/1/1943,11/30/1943,"3,738","3,738",5065.3687,3738,,0,,,army
+United States,,12/1/1943,12/31/1943,"2,488","2,488",3371.492062,2488,,0,,,army
+United States,,1/1/1944,1/31/1944,"4,079","4,079",5527.458247,4079,,0,,,army
+United States,,2/1/1944,2/29/1944,"4,992","4,992",6764.665744,4992,,0,,,army
+United States,,3/1/1944,3/31/1944,"3,781","3,781",5123.638057,3781,,0,,,army
+United States,,4/1/1944,4/30/1944,"4,363","4,363",5912.30702,4363,,0,,,army
+United States,,5/1/1944,5/31/1944,"5,994","5,994",8122.477258,5994,,0,,,army
+United States,,6/1/1944,6/30/1944,"14,839","14,839",20108.34835,14839,,0,,,army
+United States,,7/1/1944,7/31/1944,"16,806","16,806",22773.83263,16806,,0,,,army
+United States,,8/1/1944,8/31/1944,"12,442","12,442",16860.17051,12442,,0,,,army
+United States,,9/1/1944,9/30/1944,"12,816","12,816",17366.9784,12816,,0,,,army
+United States,,10/1/1944,10/31/1944,"11,844","11,844",16049.81993,11844,,0,,,army
+United States,,11/1/1944,11/30/1944,"15,825","15,825",21444.47825,15825,,0,,,army
+United States,,12/1/1944,12/31/1944,"18,389","18,389",24918.95801,18389,,0,,,army
+United States,,1/1/1945,1/31/1945,"15,424","15,424",20901.08262,15424,,0,,,army
+United States,,2/1/1945,2/28/1945,"12,724","12,724",17242.30908,12724,,0,,,army
+United States,,3/1/1945,3/31/1945,"15,467","15,467",20959.35198,15467,,0,,,army
+United States,,4/1/1945,4/30/1945,"16,390","16,390",22210.11049,16390,,0,,,army
+United States,,5/1/1945,5/31/1945,"4,898","4,898",6637.286221,4898,,0,,,army
+United States,,6/1/1945,6/30/1945,"2,124","2,124",2878.235184,2124,,0,,,army
+United States,,7/1/1945,7/31/1945,588,588,796.7995708,588,,0,,,army
+United States,,8/1/1945,8/31/1945,338,338,458.0242431,338,,0,,,army
+United States,,9/1/1945,9/30/1945,17,17,23.03672229,17,,0,,,army
+United States,,10/1/1945,10/31/1945,9,9,12.1959118,9,,0,,,army
+United States,,11/1/1945,11/30/1945,13,13,17.61631704,13,,0,,,army
+United States,,12/1/1945,12/31/1945,5,5,6.775506555,5,,0,,,army
+United States,,1/1/1946,1/31/1946,1,1,1.355101311,1,,0,,,army
+United States,,2/1/1946,2/28/1946,0,0,0,0,,0,,,army
+United States,,3/1/1946,3/31/1946,0,0,0,0,,0,,,army
+United States,,4/1/1946,4/30/1946,1,1,1.355101311,1,,0,,,army
+United States,,5/1/1946,5/31/1946,1,1,1.355101311,1,,0,,,army
+United States,,6/1/1946,6/30/1946,1,1,1.355101311,1,,0,,,army
+United States,,7/1/1946,7/31/1946,0,0,0,0,,0,,,army
+United States,,8/1/1946,8/31/1946,3,3,4.065303933,3,,0,,,army
+United States,,9/1/1946,9/30/1946,0,0,0,0,,0,,,army
+United States,,10/1/1946,10/31/1946,0,0,0,0,,0,,,army
+United States,,11/1/1946,11/30/1946,0,0,0,0,,0,,,army
+United States,,12/1/1946,12/31/1946,0,0,0,0,,0,,,army
+Albania,,9/1/1939,8/31/1945,"30,000","30,000",,30000,,0,,,
+Australia,,9/1/1939,8/31/1945,"39,800","39,800",,39800,,0,,,
+Australia,,9/1/1939,8/31/1945,700,700,,700,,1,,,
+Austria,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Austria,,9/1/1939,8/31/1945,"62,500","62,500",,62500,,1,,,
+Belgium,,9/1/1939,8/31/1945,"12,100","12,100",,12100,,0,,,
+Belgium,,9/1/1939,8/31/1945,"48,900","48,900",,48900,,1,,,
+Brazil,,9/1/1939,8/31/1945,"1,000","1,000",,1000,,0,,,
+Brazil,,9/1/1939,8/31/1945,"1,000","1,000",,1000,,1,,,
+Bulgaria,,9/1/1939,8/31/1945,"22,000","22,000",,22000,,0,,,
+Bulgaria,,9/1/1939,8/31/1945,"3,000","3,000",,3000,,1,,,
+Burma,,9/1/1939,8/31/1945,"22,000","22,000",,22000,,0,,,
+Burma,,9/1/1939,8/31/1945,"250,000","250,000",,250000,,1,,,
+Canada,,9/1/1939,8/31/1945,"45,400","45,400",,45400,,0,,,
+Canada,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+China,,9/1/1939,8/31/1945,"3,000,000","4,000,000",,3500000,,0,,,
+China,,9/1/1939,8/31/1945,"7,000,000","16,000,000",,1.15E+07,,1,,,
+Cuba,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Cuba,,9/1/1939,8/31/1945,100,100,,100,,1,,,
+Czechoslovakia,,9/1/1939,8/31/1945,"25,000","25,000",,25000,,0,,,
+Czechoslovakia,,9/1/1939,8/31/1945,"222,350","222,350",,222350,,1,,,
+Denmark,,9/1/1939,8/31/1945,"2,100","2,100",,2100,,0,,,
+Denmark,,9/1/1939,8/31/1945,"1,012","1,012",,1012,,1,,,
+Dutch East Indies,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Dutch East Indies,,9/1/1939,8/31/1945,"3,000,000","4,000,000",,3500000,,1,,,
+Estonia,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Estonia,,9/1/1939,8/31/1945,"48,250","48,250",,48250,,1,,,
+Ethiopia,,9/1/1939,8/31/1945,"5,000","5,000",,5000,,0,,,
+Ethiopia,,9/1/1939,8/31/1945,"95,000","95,000",,95000,,1,,,
+Finland,,9/1/1939,8/31/1945,"95,000","95,000",,95000,,0,,,
+Finland,,9/1/1939,8/31/1945,"2,000","2,000",,2000,,1,,,
+France,,6/23/1940,8/31/1945,132600,132600,,132600,,0,,,
+France,,9/1/1939,8/31/1945,"274,000","274,000",,274000,,1,,,
+French Indochina,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+French Indochina,,9/1/1939,8/31/1945,"1,000,000","1,500,000",,1250000,,1,,,
+Germany,,9/1/1939,8/31/1945,"1,365,000","2,958,000",,2161500,,1,,,
+Greece,,9/1/1939,8/31/1945,"20,000","35,100",,27550,,0,,,
+Greece,,9/1/1939,8/31/1945,"237,000","237,000",,237000,,1,,,
+Hungary,,6/22/1941,8/31/1945,"300,000","300,000",,300000,,0,,,
+Iceland,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Iceland,,9/1/1939,8/31/1945,200,200,,200,,1,,,
+India,,9/1/1939,8/31/1945,"87,000","87,000",,87000,,0,,,
+India,,9/1/1939,8/31/1945,"1,500,000","2,500,000",,2000000,,1,,,
+Iran,,9/1/1939,8/31/1945,200,200,,200,,0,,,
+Iran,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+Iraq,,9/1/1939,8/31/1945,500,500,,500,,0,,,
+Iraq,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+Ireland,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Ireland,,9/1/1939,8/31/1945,200,200,,200,,1,,,
+Italy,,1/1/1940,12/31/1940,"12,776","12,776",13217,12776,,0,,,
+Italy,,1/1/1941,12/31/1941,"40,929","40,929",42342,40929,,0,,,
+Italy,,1/1/1942,12/31/1942,"63,999","63,999",66209,63999,,0,,,
+Italy,,1/1/1943,12/31/1943,"106,989","106,989",110683,106989,,0,,,
+Italy,,1/1/1944,12/31/1944,"41,757","41,757",43199,41757,,0,,,
+Italy,,1/1/1945,8/31/1945,"24,890","24,890",25749,24890,,0,,,
+Italy,,9/1/1939,8/31/1945,"145,200","145,200",,145200,,1,,,
+Japan,,9/1/1939,8/31/1945,"2,120,000","2,120,000",,2120000,,0,,,
+Japan,,9/1/1939,8/31/1945,"500,000","278,510",,389255,,1,,,
+Korea,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Korea,,9/1/1939,8/31/1945,"378,000","483,000",,430500,,1,,,
+Latvia,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Latvia,,9/1/1939,8/31/1945,"159,000","159,000",,159000,,1,,,
+Lithuania,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Lithuania,,9/1/1939,8/31/1945,"213,500","213,500",,213500,,1,,,
+Luxembourg,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Luxembourg,,9/1/1939,8/31/1945,500,500,,500,,1,,,
+Malaya,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Malaya,,9/1/1939,8/31/1945,"100,000","100,000",,100000,,1,,,
+Malta,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Malta,,9/1/1939,8/31/1945,"1,500","1,500",,1500,,1,,,
+Mexico,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Mexico,,9/1/1939,8/31/1945,100,100,,100,,1,,,
+Mongolia,,9/1/1939,8/31/1945,300,300,,300,,0,,,
+Mongolia,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+Nauru (Australian),,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Nauru (Australian),,9/1/1939,8/31/1945,500,500,,500,,1,,,
+Netherlands,,9/1/1939,8/31/1945,"17,000","17,000",,17000,,0,,,
+Netherlands,,9/1/1939,8/31/1945,"181,500","181,500",,181500,,1,,,
+Newfoundland,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Newfoundland,,9/1/1939,8/31/1945,100,100,,100,,1,,,
+New Zealand,,9/1/1939,8/31/1945,"11,900","11,900",,11900,,0,,,
+New Zealand,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+Norway,,9/1/1939,8/31/1945,"3,000","3,000",,3000,,0,,,
+Norway,,9/1/1939,8/31/1945,"5,700","5,700",,5700,,1,,,
+Papua and New Guinea (Australian),,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Papua and New Guinea (Australian),,9/1/1939,8/31/1945,"15,000","15,000",,15000,,1,,,
+Philippines,,9/1/1939,8/31/1945,"57,000","57,000",,57000,,0,,,
+Philippines,,9/1/1939,8/31/1945,"500,000","1,000,000",,750000,,1,,,
+Poland,,10/7/1939,8/31/1945,"174,000","174,000",,174000,,0,,,
+Poland,,9/1/1939,8/31/1945,"2,630,000","2,630,000",,2630000,,1,,,
+Portuguese Timor,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Portuguese Timor,,9/1/1939,8/31/1945,"40,000","70,000",,55000,,1,,,
+Romania,,6/22/1941,8/31/1945,"300,000","300,000",,300000,,0,,,
+Romania,,9/1/1939,8/31/1945,"296,000","296,000",,296000,,1,,,
+Ruanda-Urundi (Belgian),,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Ruanda-Urundi (Belgian),,9/1/1939,8/31/1945,0,"300,000",,150000,,1,,,
+Singapore,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Singapore,,9/1/1939,8/31/1945,"50,000","50,000",,50000,,1,,,
+South Africa,,9/1/1939,8/31/1945,"11,900","11,900",,11900,,0,,,
+South Africa,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+South Pacific Mandate (Japanese),,9/1/1939,8/31/1945,0,0,,0,,0,,,
+South Pacific Mandate (Japanese),,9/1/1939,8/31/1945,"57,000","57,000",,57000,,1,,,
+Soviet Union,,9/1/1939,8/31/1945,"9,000,000","9,000,000",,9000000,,1,,,
+Sweden,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Sweden,,9/1/1939,8/31/1945,600,600,,600,,1,,,
+Switzerland,,9/1/1939,8/31/1945,0,0,,0,,0,,,
+Switzerland,,9/1/1939,8/31/1945,100,100,,100,,1,,,
+Thailand,,9/1/1939,8/31/1945,"5,600","5,600",,5600,,0,,,
+Thailand,,9/1/1939,8/31/1945,"2,000","2,000",,2000,,1,,,
+Turkey,,9/1/1939,8/31/1945,200,200,,200,,0,,,
+Turkey,,9/1/1939,8/31/1945,0,0,,0,,1,,,
+United Kingdom,,4/1/1940,8/31/1945,"16,591","16,591",,16591,,1,,,
+Yugoslavia,,6/22/1941,8/31/1945,"436,000","436,000",,436000,,0,,,
+Yugoslavia,,6/22/1941,8/31/1945,"520,500","520,500",,520500,,1,,,
+Germany,,9/1/1939,9/30/1939,15000,15000,,15000,,0,,,
+Germany,,10/1/1939,10/31/1939,3000,3000,,3000,,0,,,
+Germany,,11/1/1939,11/30/1939,1000,1000,,1000,,0,,,
+Germany,,12/1/1939,12/31/1939,0,0,,0,,0,,,
+Germany,,1/1/1940,1/31/1940,2000,2000,,2000,,0,,,
+Germany,,2/1/1940,2/29/1940,0,0,,0,,0,,,
+Germany,,3/1/1940,3/31/1940,5000,5000,,5000,,0,,,
+Germany,,4/1/1940,4/30/1940,3000,3000,,3000,,0,,,
+Germany,,5/1/1940,5/31/1940,21000,21000,,21000,,0,,,
+Germany,,6/1/1940,6/30/1940,29000,29000,,29000,,0,,,
+Germany,,7/1/1940,7/31/1940,7000,7000,,7000,,0,,,
+Germany,,8/1/1940,8/31/1940,4000,4000,,4000,,0,,,
+Germany,,9/1/1940,9/30/1940,4000,4000,,4000,,0,,,
+Germany,,10/1/1940,10/31/1940,5033,5033,,5033,,0,,,
+Germany,,11/1/1940,11/30/1940,1000,1000,,1000,,0,,,
+Germany,,12/1/1940,12/31/1940,2000,2000,,2000,,0,,,
+Germany,,1/1/1941,1/31/1941,10000,10000,,10000,,0,,,
+Germany,,2/1/1941,2/28/1941,1000,1000,,1000,,0,,,
+Germany,,3/1/1941,3/31/1941,4000,4000,,4000,,0,,,
+Germany,,4/1/1941,4/30/1941,4000,4000,,4000,,0,,,
+Germany,,5/1/1941,5/31/1941,13000,13000,,13000,,0,,,
+Germany,,6/1/1941,6/30/1941,29000,29000,,29000,,0,,,
+Germany,,7/1/1941,7/31/1941,67132,67132,,67132,,0,,,
+Germany,,8/1/1941,8/31/1941,51066,51066,,51066,,0,,,
+Germany,,9/1/1941,9/30/1941,53033,53033,,53033,,0,,,
+Germany,,10/1/1941,10/31/1941,44099,44099,,44099,,0,,,
+Germany,,11/1/1941,11/30/1941,38000,38000,,38000,,0,,,
+Germany,,12/1/1941,12/31/1941,42198,42198,,42198,,0,,,
+Germany,,1/1/1942,1/31/1942,53165,53165,,53165,,0,,,
+Germany,,2/1/1942,2/28/1942,52099,52099,,52099,,0,,,
+Germany,,3/1/1942,3/31/1942,46132,46132,,46132,,0,,,
+Germany,,4/1/1942,4/30/1942,24066,24066,,24066,,0,,,
+Germany,,5/1/1942,5/31/1942,44099,44099,,44099,,0,,,
+Germany,,6/1/1942,6/30/1942,34033,34033,,34033,,0,,,
+Germany,,7/1/1942,7/31/1942,46099,46099,,46099,,0,,,
+Germany,,8/1/1942,8/31/1942,74231,74231,,74231,,0,,,
+Germany,,9/1/1942,9/30/1942,46033,46033,,46033,,0,,,
+Germany,,10/1/1942,10/31/1942,30000,30000,,30000,,0,,,
+Germany,,11/1/1942,11/30/1942,38231,38231,,38231,,0,,,
+Germany,,12/1/1942,12/31/1942,83792,83792,,83792,,0,,,
+Germany,,1/1/1943,1/31/1943,185376,185376,,185376,,0,,,
+Germany,,2/1/1943,2/28/1943,74363,74363,,74363,,0,,,
+Germany,,3/1/1943,3/31/1943,59099,59099,,59099,,0,,,
+Germany,,4/1/1943,4/30/1943,21066,21066,,21066,,0,,,
+Germany,,5/1/1943,5/31/1943,31099,31099,,31099,,0,,,
+Germany,,6/1/1943,6/30/1943,21066,21066,,21066,,0,,,
+Germany,,7/1/1943,7/31/1943,79231,79231,,79231,,0,,,
+Germany,,8/1/1943,8/31/1943,66198,66198,,66198,,0,,,
+Germany,,9/1/1943,9/30/1943,69495,69495,,69495,,0,,,
+Germany,,10/1/1943,10/31/1943,61330,61330,,61330,,0,,,
+Germany,,11/1/1943,11/30/1943,77396,77396,,77396,,0,,,
+Germany,,12/1/1943,12/31/1943,66330,66330,,66330,,0,,,
+Germany,,1/1/1944,1/31/1944,81330,81330,,81330,,0,,,
+Germany,,2/1/1944,2/29/1944,91495,91495,,91495,,0,,,
+Germany,,3/1/1944,3/31/1944,112759,112759,,112759,,0,,,
+Germany,,4/1/1944,4/30/1944,92363,92363,,92363,,0,,,
+Germany,,5/1/1944,5/31/1944,78495,78495,,78495,,0,,,
+Germany,,6/1/1944,6/30/1944,182178,182178,,182178,,0,,,
+Germany,,7/1/1944,7/31/1944,215013,215013,,215013,,0,,,
+Germany,,8/1/1944,8/31/1944,348960,348960,,348960,,0,,,
+Germany,,9/1/1944,9/30/1944,151957,151957,,151957,,0,,,
+Germany,,10/1/1944,10/31/1944,184089,184089,,184089,,0,,,
+Germany,,11/1/1944,11/30/1944,103561,103561,,103561,,0,,,
+Germany,,12/1/1944,12/31/1944,159386,159386,,159386,,0,,,
+Germany,,1/1/1945,1/31/1945,451742,451742,,451742,,0,,,
+Germany,,2/1/1945,2/28/1945,294772,294772,,294772,,0,,,
+Germany,,3/1/1945,3/31/1945,284442,284442,,284442,,0,,,
+Germany,,4/1/1945,4/30/1945,281848,281848,,281848,,0,,,
+Germany,,5/1/1945,5/31/1945,94528,94528,,94528,,0,,,
+Germany,,6/1/1945,6/30/1945,20066,20066,,20066,,0,,,
+Germany,,7/1/1945,7/31/1945,13000,13000,,13000,,0,,,
+Germany,,8/1/1945,8/31/1945,27099,27099,,27099,,0,,,
+Soviet Union,,7/1/1941,9/30/1941,1916709,1916709,,1916709,,0,,,
+Soviet Union,,10/1/1941,12/31/1941,907196,907196,,907196,,0,,,
+Soviet Union,,1/1/1942,3/31/1942,607784,607784,,607784,,0,,,
+Soviet Union,,4/1/1942,6/30/1942,758608,758608,,758608,,0,,,
+Soviet Union,,7/1/1942,9/30/1942,1102046,1102046,,1102046,,0,,,
+Soviet Union,,10/1/1942,12/31/1942,463957,463957,,463957,,0,,,
+Soviet Union,,1/1/1943,3/31/1943,654043,654043,,654043,,0,,,
+Soviet Union,,4/1/1943,6/30/1943,172714,172714,,172714,,0,,,
+Soviet Union,,7/1/1943,9/30/1943,723470,723470,,723470,,0,,,
+Soviet Union,,10/1/1943,12/31/1943,530960,530960,,530960,,0,,,
+Soviet Union,,1/1/1944,3/31/1944,513685,513685,,513685,,0,,,
+Soviet Union,,4/1/1944,6/30/1944,309832,309832,,309832,,0,,,
+Soviet Union,,7/1/1944,9/30/1944,459711,459711,,459711,,0,,,
+Soviet Union,,10/1/1944,12/31/1944,304274,304274,,304274,,0,,,
+Soviet Union,,1/1/1945,3/31/1945,501769,501769,,501769,,0,,,
+Soviet Union,,4/1/1945,6/30/1945,218966,218966,,218966,,0,,,
+United States,,12/1/1941,12/31/1941,2155,2155,4715,2155,,0,,,"navy, pearl harbor"
+United States,,1/1/1942,12/31/1942,2809,2809,6146,2809,,0,,,navy
+United States,,1/1/1943,12/31/1943,4524,4524,9898,4524,,0,,,navy
+United States,,1/1/1944,12/31/1944,7685,7685,16814,7685,,0,,,navy
+United States,,1/1/1945,8/31/1945,11446,11446,25042,11446,,0,,,navy
+United States,,12/1/1941,8/31/1945,24511,24511,,24511,,,,,marines
+Poland,,9/1/1939,10/6/1939,"66,000","66,000",,66000,,0,,invasion-germany,
+France,,5/10/1940,6/22/1940,55000,85000,85000,70000,,0,,invasion-germany,
+Yugoslavia,,4/6/1941,4/18/1941,"10,000","10,000",,10000,,0,,invasion-germany,
+Germany,"Anklam, Germany",4/28/1945,4/28/1945,370,380,,375,1,1,1,air-firebomb,LUFTW
+Germany,"Bremen, Germany",4/21/1945,4/21/1945,61,61,,61,1,1,1,air-firebomb,
+Germany,"Ingolstadt, Germany",4/20/1945,4/20/1945,104,150,,127,1,1,1,air-firebomb,USAAF
+Germany,"Oldenburg, Germany",4/14/1945,4/14/1945,15,15,,15,1,1,1,air-firebomb,
+Germany,"Nuremberg, Germany",4/10/1945,4/10/1945,74,74,,74,1,1,1,air-firebomb,RAF/USAAF
+Germany,"Leipzig, Germany",4/9/1945,4/16/1945,700,790,,745,1,1,1,air-firebomb,RAF/USAAF
+Germany,"Celle, Germany",4/7/1945,4/7/1945,,,,*****,1,1,1,air-firebomb,
+Germany,"Gottingen, Germany",4/6/1945,4/6/1945,30,30,,30,1,1,1,air-firebomb,
+Germany,"Leipzig, Germany",4/5/1945,4/5/1945,733,733,,733,1,1,1,air-firebomb,USAAF
+Germany,"Ingolstadt, Germany",4/4/1945,4/4/1945,52,52,,52,1,1,1,air-firebomb,USAAF
+Germany,"Nuremberg, Germany",4/4/1945,4/4/1945,197,197,,197,1,1,1,air-firebomb,USAAF
+Germany,"Hameln, Germany",3/27/1945,3/27/1945,110,110,,110,1,1,1,air-firebomb,
+Germany,"Paderborn, Germany",3/26/1945,3/26/1945,900,900,,900,1,1,1,air-firebomb,RAF
+Germany,"Wesel, Germany",3/22/1945,3/22/1945,36,36,,36,1,1,1,air-firebomb,RAF
+Germany,"Hildesheim, Germany",3/21/1945,3/21/1945,"1,500","1,500",,1500,1,1,1,air-firebomb,RAF/RCAF
+Germany,"Bremen, Germany",3/21/1945,3/29/1945,147,147,,147,1,1,1,air-firebomb,USAAF
+Germany,"Hanau, Germany",3/18/1945,3/18/1945,"2,300","2,500",,2400,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",3/16/1945,3/16/1945,517,517,,517,1,1,1,air-firebomb,RAF
+Germany,"Hameln, Germany",3/14/1945,3/14/1945,177,177,,177,1,1,1,air-firebomb,
+Germany,"Wuppertal, Germany",3/13/1945,3/13/1945,500,500,,500,1,1,1,air-firebomb,
+Germany,"Vienna, Germany",3/12/1945,3/26/1945,"1,547","1,547",,1547,1,1,1,air-firebomb,
+Germany,"Swinemunde, Germany",3/12/1945,3/12/1945,"5,000","23,000",,14000,1,1,1,air-firebomb,USAAF
+Germany,"Kassel, Germany",3/8/1945,,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Hildesheim, Germany",3/3/1945,3/31/1945,"1,500","1,600",,1550,1,1,1,air-firebomb,
+Germany,"Mannheim, Germany",3/2/1945,3/2/1945,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Ulm, Germany",3/1/1945,3/1/1945,479,479,,479,1,1,1,air-firebomb,RAF
+Germany,"Ingolstadt, Germany",3/1/1945,3/1/1945,197,197,,197,1,1,1,air-firebomb,USAAF
+Germany,"Mainz, Germany",2/27/1945,2/27/1945,"1,150","1,250",,1200,1,1,1,air-firebomb,RAF
+Germany,"Leipzig, Germany",2/27/1945,2/27/1945,677,677,,677,1,1,1,air-firebomb,USAAF
+Germany,"Bremen, Germany",2/24/1945,2/24/1945,56,56,,56,1,1,1,air-firebomb,USAAF
+Germany,"Pforzheim, Germany",2/23/1945,2/23/1945,"17,600","20,277",,18938.5,1,1,1,air-firebomb,RAF
+Germany,"Meiningen, Germany",2/23/1945,2/23/1945,208,208,,208,1,1,1,air-firebomb,USAAF
+Germany,"Kitzingen, Germany",2/23/1945,2/23/1945,650,750,,700,1,1,1,air-firebomb,USAAF
+Germany,"Ulm, Germany",2/22/1945,2/22/1945,206,206,,206,1,1,1,air-firebomb,RAF
+Germany,"Hildesheim, Germany",2/22/1945,2/22/1945,230,270,,250,1,1,1,air-firebomb,
+Germany,"Ansbach, Germany",2/22/1945,2/23/1945,445,445,,445,1,1,1,air-firebomb,
+Germany,"Plauen, Germany",2/22/1945,2/23/1945,387,387,,387,1,1,1,air-firebomb,
+Germany,"Crailsheim, Germany",2/22/1945,2/23/1945,61,61,,61,1,1,1,air-firebomb,
+Germany,"Neumarkt, Germany",2/22/1945,2/23/1945,450,550,,500,1,1,1,air-firebomb,
+Germany,"Treuchtlingen, Germany",2/22/1945,2/23/1945,586,586,,586,1,1,1,air-firebomb,
+Germany,"Weimar, Germany",2/22/1945,2/23/1945,,,,*****,1,1,1,air-firebomb,
+Germany,"Halberstadt, Germany",2/22/1945,2/23/1945,172,172,,172,1,1,1,air-firebomb,
+Germany,"Nuremberg, Germany",2/20/1945,2/21/1945,"1,356","1,356",,1356,1,1,1,air-firebomb,USAAF
+Germany,"Bremen, Germany",2/17/1945,2/17/1945,28,28,,28,1,1,1,air-firebomb,RAF
+Germany,"Dresden, Germany",2/13/1945,2/15/1945,"22,700","25,000",,23850,1,1,1,air-firebomb,RAF/USAAF
+Germany,"Stuttgart, Germany",2/12/1945,2/12/1945,68,68,,68,1,1,1,air-firebomb,RAF/USAAF
+Germany,"Gottingen, Germany",2/9/1945,2/9/1945,27,27,,27,1,1,1,air-firebomb,
+Germany,"Paderborn, Germany",1/17/1945,1/17/1945,,,,*****,1,1,1,air-firebomb,
+Germany,"Magdeburg, Germany",1/16/1945,1/16/1945,"2,000","2,500",,2250,1,1,1,air-firebomb,RAF
+Germany,"Ingolstadt, Germany",1/15/1945,1/15/1945,50,50,,50,1,1,1,air-firebomb,USAAF
+Germany,"Munich, Germany",1/8/1945,1/8/1945,505,505,,505,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",1/2/1945,1/2/1945,"1,794","1,794",,1794,1,1,1,air-firebomb,RAF
+Germany,"Gottingen, Germany",1/1/1945,1/1/1945,47,47,,47,1,1,1,air-firebomb,
+Germany,"Wuppertal, Germany",12/31/1944,12/31/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Koblenz, Germany",12/28/1944,12/29/1944,65,65,,65,1,1,1,air-firebomb,USAAF/RAF
+Germany,"Koblenz, Germany",12/22/1944,12/22/1944,154,154,,154,1,1,1,air-firebomb,RAF
+Germany,"Munich, Germany",12/17/1944,12/17/1944,562,562,,562,1,1,1,air-firebomb,RAF
+Germany,"Ulm, Germany",12/17/1944,12/17/1944,707,707,,707,1,1,1,air-firebomb,RAF
+Germany,"Duisburg, Germany",12/17/1944,12/18/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Munich, Germany",12/17/1944,12/18/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Essen, Germany",12/12/1944,12/13/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Bebra, Germany",12/4/1944,12/4/1944,54,83,,68.5,1,1,1,air-firebomb,USAAF
+Germany,"Karlruhe, Germany",12/4/1944,12/5/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Heilbronn, Germany",12/4/1944,12/4/1944,"6,500","6,500",,6500,1,1,1,air-firebomb,RAF
+Germany,"Hagen, Germany",12/2/1944,12/3/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Freiburg iB, Germany",11/27/1944,11/27/1944,"2,800","2,900",,2850,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",11/25/1944,11/26/1944,60,70,,65,1,1,1,air-firebomb,RAF
+Germany,"Koblenz, Germany",11/21/1944,11/21/1944,64,64,,64,1,1,1,air-firebomb,RAF
+Germany,"Duren, Germany",11/16/1944,11/16/1944,"3,106","3,106",,3106,1,1,1,air-firebomb,USAAF
+Germany,"Koblenz, Germany",11/6/1944,11/6/1944,109,109,,109,1,1,1,air-firebomb,RAF
+Germany,"Bochum, Germany",11/4/1944,11/4/1944,994,"1,000",,997,1,1,1,air-firebomb,
+Germany,"Hannover, Germany",10/26/1944,10/26/1944,100,201,,150.5,1,1,1,air-firebomb,
+Germany,"Essen, Germany",10/23/1944,10/25/1944,"1,163","1,200",,1181.5,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",10/19/1944,10/20/1944,237,237,,237,1,1,1,air-firebomb,RAF
+Germany,"Stuttgart, Germany",10/19/1944,10/19/1944,338,338,,338,1,1,1,air-firebomb,RAF
+Germany,"Salzburg, Germany",10/16/1944,10/16/1944,245,245,,245,1,1,1,air-firebomb,
+Germany,"Cologne, Germany",10/15/1944,10/15/1944,,,,*****,1,1,1,air-firebomb,USAAF
+Germany,"Braunschweig, Germany",10/14/1944,10/15/1944,640,640,,640,1,1,1,air-firebomb,RAF
+Germany,"Duisburg, Germany",10/13/1944,10/14/1944,"2,500","2,600",,2550,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",10/12/1944,10/12/1944,82,82,,82,1,1,1,air-firebomb,USAAF
+Germany,"Koblenz, Germany",10/9/1944,10/9/1944,71,71,,71,1,1,1,air-firebomb,USAAF
+Germany,"Bremen, Germany",10/6/1944,10/6/1944,66,66,,66,1,1,1,air-firebomb,RAF
+Germany,"Stralsund, Germany",10/6/1944,10/6/1944,800,800,,800,1,1,1,air-firebomb,USAAF
+Germany,"Nuremberg, Germany",10/3/1944,10/3/1944,353,353,,353,1,1,1,air-firebomb,USAAF
+Germany,"Koblenz, Germany",9/25/1944,9/25/1944,109,109,,109,1,1,1,air-firebomb,USAAF
+Germany,"Koblenz, Germany",9/19/1944,9/19/1944,144,144,,144,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",9/12/1944,9/12/1944,957,957,,957,1,1,1,air-firebomb,RAF
+Germany,"Darmstadt, Germany",9/11/1944,9/12/1944,"11,000","12,000",,11500,1,1,1,air-firebomb,RAF
+Germany,"Heilbronn, Germany",9/10/1944,9/10/1944,281,281,,281,1,1,1,air-firebomb,USAAF
+Germany,"Bremen, Germany",8/30/1944,8/30/1944,34,34,,34,1,1,1,air-firebomb,USAAF
+Germany,"Konigsberg, Germany",8/29/1944,8/29/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Lubeck, Germany",8/25/1944,8/25/1944,110,110,,110,1,1,1,air-firebomb,USAAF
+Germany,"Lubeck, Germany",3/28/1942,3/29/1942,301,"1,000",,650.5,,,1,air-firebomb,RAF
+Germany,"Anklam, Germany",8/25/1944,8/25/1944,,,,*****,1,1,1,air-firebomb,USAAF
+Germany,"Bremen, Germany",8/18/1944,8/19/1944,"1,053","1,053",,1053,1,1,1,air-firebomb,RAF
+Germany,"Anklam, Germany",8/4/1944,8/4/1944,26,26,,26,1,1,1,air-firebomb,USAAF
+Germany,"Hildesheim, Germany",7/29/1944,7/29/1944,34,34,,34,1,1,1,air-firebomb,
+Germany,"Bremen, Germany",7/29/1944,7/29/1944,167,167,,167,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",7/25/1944,7/25/1944,884,884,,884,1,1,1,air-firebomb,RAF
+Germany,"Duren, Germany",7/19/1944,7/21/1944,135,135,,135,1,1,1,air-firebomb,RAF
+Germany,"Koblenz, Germany",7/19/1944,7/19/1944,74,74,,74,1,1,1,air-firebomb,USAAF
+Germany,"Hameln, Germany",7/7/1944,7/7/1944,19,20,,19.5,1,1,1,air-firebomb,
+Germany,"Duren, Germany",7/6/1944,7/6/1944,23,23,,23,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",6/24/1944,6/24/1944,115,115,,115,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",6/18/1944,6/18/1944,31,31,,31,1,1,1,air-firebomb,USAAF
+Germany,"Munich, Germany",4/24/1944,4/25/1944,136,136,,136,1,1,1,air-firebomb,
+Germany,"Dusseldorf, Germany",4/22/1944,4/23/1944,748,748,,748,1,1,1,air-firebomb,RAF
+Germany,"Koblenz, Germany",4/22/1944,4/22/1944,115,115,,115,1,1,1,air-firebomb,USAAF
+Germany,"Koblenz, Germany",4/19/1944,4/19/1944,21,21,,21,1,1,1,air-firebomb,USAAF
+Germany,"Nuremberg, Germany",4/10/1944,4/10/1944,82,82,,82,1,1,1,air-firebomb,USAAF
+Germany,"Nuremberg, Germany",3/31/1944,3/31/1944,74,74,,74,1,1,1,air-firebomb,RAF
+Germany,"Essen, Germany",3/26/1944,3/26/1944,,,,*****,1,1,1,air-firebomb,
+Germany,"Berlin, Germany",3/24/1944,3/25/1944,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Frankfurt aM, Germany",3/18/1944,3/19/1944,421,421,,421,1,1,1,air-firebomb,RAF
+Germany,"Stuttgart, Germany",3/15/1944,3/16/1944,88,88,,88,1,1,1,air-firebomb,RAF
+Germany,"Berlin, Germany",3/8/1944,3/8/1944,,,,*****,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",3/2/1944,3/2/1944,121,121,,121,1,1,1,air-firebomb,RAF
+Germany,"Augsburg, Germany",2/25/1944,2/26/1944,730,730,,730,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",2/25/1944,2/25/1944,138,138,,138,1,1,1,air-firebomb,USAAF
+Germany,"Schweinfurt, Germany",2/24/1944,2/24/1944,,,,*****,1,1,1,air-firebomb,USAAF
+Germany,"Braunschweig, Germany",2/21/1944,2/21/1944,,,,*****,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",2/21/1944,2/22/1944,159,159,,159,1,1,1,air-firebomb,RAF
+Germany,"Leipzig, Germany",2/20/1944,2/20/1944,970,970,,970,1,1,1,air-firebomb,USAAF/RAF
+Germany,"Berlin, Germany",2/15/1944,2/16/1944,"1,000","2,000",,1500,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",1/11/1944,1/11/1944,28,28,,28,1,1,1,air-firebomb,LUFTW(Acc)
+Germany,"Bremen, Germany",12/13/1943,12/20/1943,185,185,,185,1,1,1,air-firebomb,USAAF
+Germany,"Leipzig, Germany",12/4/1943,12/4/1943,"1,800","1,890",,1845,1,1,1,air-firebomb,RAF
+Germany,"Berlin, Germany",11/22/1943,11/23/1943,"2,000","3,000",,2500,1,1,1,air-firebomb,RAF
+Germany,"Dusseldorf, Germany",11/3/1943,11/4/1943,622,622,,622,1,1,1,air-firebomb,RAF
+Germany,"Kassel, Germany",10/22/1943,10/23/1943,"10,000","11,000",,10500,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",10/18/1943,10/18/1943,157,157,,157,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",10/9/1943,10/9/1943,"1,245","1,245",,1245,1,1,1,air-firebomb,RAF
+Germany,"Anklam, Germany",10/9/1943,10/9/1943,400,500,,450,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",10/8/1943,10/8/1943,101,101,,101,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",10/8/1943,10/8/1943,132,132,,132,1,1,1,air-firebomb,USAAF
+Germany,"Frankfurt aM, Germany",10/4/1943,10/4/1943,529,529,,529,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",9/27/1943,9/28/1943,196,196,,196,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",9/22/1943,9/23/1943,201,201,,201,1,1,1,air-firebomb,RAF
+Germany,"Stuttgart, Germany",9/6/1943,9/6/1943,107,107,,107,1,1,1,air-firebomb,USAAF
+Germany,"Mannheim, Germany",9/5/1943,9/6/1943,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Berlin, Germany",8/23/1943,9/4/1943,,,,*****,1,1,1,air-firebomb,
+Germany,"Vienna, Germany",8/13/1943,8/13/1943,181,181,,181,1,1,1,air-firebomb,USAAF
+Germany,"Nuremberg, Germany",8/10/1943,8/11/1943,585,585,,585,1,1,1,air-firebomb,RAF
+Germany,"Remscheid, Germany",7/30/1943,7/31/1943,"1,200","1,200",,1200,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",7/26/1943,7/26/1943,273,273,,273,1,1,1,air-firebomb,USAAF
+Germany,"Gelsenkirchen, Germany",7/25/1943,7/25/1943,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Hamburg, Germany",7/24/1943,7/30/1943,"30,000","34,000",,32000,1,1,1,air-firebomb,RAF/USAAF
+Germany,"Cologne, Germany",6/28/1943,6/29/1943,"4,377","4,500",,4438.5,1,1,1,air-firebomb,RAF
+Germany,"Elberfeld, Germany",6/24/1943,6/24/1943,"1,900","1,900",,1900,1,1,1,air-firebomb,RAF
+Germany,"Marl, Germany",6/22/1943,6/22/1943,180,180,,180,1,1,1,air-firebomb,USAAF
+Germany,"Mulheim, Germany",6/22/1943,6/23/1943,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Krefeld, Germany",6/21/1943,6/22/1943,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Bochum, Germany",6/12/1943,6/13/1943,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Dusseldorf, Germany",6/11/1943,6/12/1943,550,650,,600,1,1,1,air-firebomb,RAF
+Germany,"Wuppertal, Germany",5/29/1943,5/30/1943,"2,732","3,380",,3056,1,1,1,air-firebomb,RAF
+Germany,"Ruhr Dams, Germany",5/17/1943,5/17/1943,"1,284","1,900",,1592,1,1,1,air-firebomb,RAF
+Germany,"Kiel, Germany",5/14/1943,5/14/1943,150,350,,250,1,1,1,air-firebomb,USAAF
+Germany,"Bochum, Germany",5/13/1943,5/14/1943,360,370,,365,1,1,1,air-firebomb,RAF
+Germany,"Dortmund, Germany",5/4/1943,5/5/1943,690,690,,690,1,1,1,air-firebomb,RAF
+Germany,"Stuttgart, Germany",4/15/1943,4/15/1943,619,619,,619,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",3/18/1943,3/18/1943,129,129,,129,1,1,1,air-firebomb,USAAF
+Germany,"Stuttgart, Germany",3/11/1943,3/11/1943,112,112,,112,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",3/8/1943,3/9/1943,343,343,,343,1,1,1,air-firebomb,RAF
+Germany,"Essen, Germany",3/5/1943,3/5/1943,457,461,,459,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",2/25/1943,2/26/1943,27,27,,27,1,1,1,air-firebomb,RAF
+Germany,"Berlin, Germany",1/16/1943,3/30/1943,200,600,,400,1,1,1,air-firebomb,RAF
+Germany,"Munich, Germany",9/19/1942,9/19/1942,30,30,,30,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",9/14/1942,9/14/1942,67,67,,67,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",8/28/1942,8/29/1942,136,136,,136,1,1,1,air-firebomb,RAF
+Germany,"Mainz, Germany",8/12/1942,8/12/1942,161,161,,161,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",6/30/1942,6/30/1942,8,8,,8,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",6/28/1942,6/28/1942,7,7,,7,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",6/26/1942,6/26/1942,85,85,,85,1,1,1,air-firebomb,RAF
+Germany,"Osnabruck, Germany",6/20/1942,6/20/1942,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Essen, Germany",6/1/1942,6/2/1942,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Cologne, Germany",5/30/1942,5/31/1942,411,480,,445.5,1,1,1,air-firebomb,RAF
+Germany,"Heilbronn, Germany",5/7/1942,5/7/1942,7,7,,7,1,1,1,air-firebomb,RAF
+Germany,"Augsburg, Germany",4/17/1942,4/17/1942,12,12,,12,1,1,1,air-firebomb,RAF
+Germany,"Koblenz, Germany",4/6/1942,4/6/1942,12,12,,12,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",4/6/1942,4/6/1942,73,73,,73,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",2/11/1942,2/11/1942,7,7,,7,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",1/26/1942,1/26/1942,26,26,,26,1,1,1,air-firebomb,RAF
+Germany,"Nuremberg, Germany",10/12/1941,10/13/1941,9,9,,9,1,1,1,air-firebomb,RAF
+Germany,"Frankfurt aM, Germany",9/12/1941,9/13/1941,8,8,,8,1,1,1,air-firebomb,RAF
+Germany,"Hameln, Germany",6/13/1941,6/13/1941,29,29,,29,1,1,1,air-firebomb,RAF
+Germany,"Bremen, Germany",4/17/1941,4/17/1941,20,20,,20,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",2/10/1941,2/10/1941,101,101,,101,1,1,1,air-firebomb,RAF
+Germany,"Aachen, Germany",1/7/1941,7/31/1941,,,,*****,1,1,1,air-firebomb,RAF
+Germany,"Hannover, Germany",5/19/1940,5/19/1940,19,19,,19,1,1,1,air-firebomb,RAF
+Germany,"Freiburg iB, Germany",5/10/1940,5/10/1940,57,57,,57,1,1,0,air-firebomb,RAF
+Japan,"Osaka, Japan",8/11/1945,8/11/1945,173,173,,173,1,0.8,1,air-firebomb,
+Japan,"Aomoridai, Japan",7/28/1945,7/28/1945,600,"1,767",,1183.5,1,1,1,air-firebomb,USAAF
+Japan,"Matsuyama, Japan",7/26/1945,7/26/1945,259,259,,259,1,1,1,air-firebomb,USAAF
+Japan,"Osaka, Japan",7/24/1945,7/24/1945,187,187,,187,1,1,1,air-firebomb,USAAF
+Japan,"Tsu, Japan",7/24/1945,7/24/1945,400,"1,239",,819.5,1,1,1,air-firebomb,USAAF
+Japan,"Okazaki, Japan",7/19/1945,7/20/1945,70,203,,136.5,1,1,1,air-firebomb,USAAF
+Japan,"Choshi, Japan",7/19/1945,7/19/1945,400,"1,181",,790.5,1,1,1,air-firebomb,USAAF
+Japan,"Hitachi, Japan",7/19/1945,7/19/1945,800,"2,199",,1499.5,1,1,1,air-firebomb,USAAF
+Japan,"Fukui, Japan",7/19/1945,7/19/1945,600,"1,576",,1088,1,1,1,air-firebomb,USAAF
+Japan,"Tsuruga, Japan",7/12/1945,7/12/1945,109,109,,109,1,1,1,air-firebomb,USAAF
+Japan,"Utsunomiya, Japan",7/12/1945,7/12/1945,628,628,,628,1,1,1,air-firebomb,USAAF
+Japan,"Sendai, Japan",7/10/1945,7/10/1945,828,828,,828,1,1,1,air-firebomb,USAAF
+Japan,"Gifu, Japan",7/9/1945,7/9/1945,450,900,,675,1,1,1,air-firebomb,USAAF
+Japan,"Sakai, Japan",7/9/1945,7/9/1945,900,"1,860",,1380,1,1,1,air-firebomb,USAAF
+Japan,"Wakayama, Japan",7/9/1945,7/9/1945,600,"1,200",,900,1,1,1,air-firebomb,USAAF
+Japan,"Kofu, Japan",7/6/1945,7/6/1945,400,"1,027",,713.5,1,1,1,air-firebomb,USAAF
+Japan,"Chiba, Japan",7/6/1945,7/6/1945,500,"1,679",,1089.5,1,1,1,air-firebomb,USAAF
+Japan,"Tokushima, Japan",7/4/1945,7/4/1945,129,129,,129,1,1,1,air-firebomb,USAAF
+Japan,"Takamatsu, Japan",7/4/1945,7/4/1945,"1,359","1,359",,1359,1,1,1,air-firebomb,USAAF
+Japan,"Himeji, Japan",7/3/1945,7/3/1945,173,173,,173,1,1,1,air-firebomb,USAAF
+Japan,"Shimonoseki, Japan",7/2/1945,7/2/1945,324,324,,324,1,1,1,air-firebomb,USAAF
+Japan,"Kure, Japan",7/1/1945,7/1/1945,"1,000","3,700",,2350,1,0.5,1,air-firebomb,USAAF
+Japan,"Kumamoto, Japan",7/1/1945,7/1/1945,469,469,,469,1,1,1,air-firebomb,USAAF
+Japan,"Okayama, Japan",6/29/1945,6/29/1945,"1,737","1,737",,1737,1,1,1,air-firebomb,USAAF
+Japan,"Sasebo, Japan",6/29/1945,6/29/1945,"1,300","1,300",,1300,1,1,1,air-firebomb,USAAF
+Japan,"Osaka, Japan",6/26/1945,6/26/1945,592,592,,592,1,1,1,air-firebomb,USAAF
+Japan,"Kakamigahara, Japan",6/22/1945,6/22/1945,169,169,,169,1,0.5,1,air-firebomb,USAAF
+Japan,"Mizushima, Japan",6/21/1945,6/21/1945,11,11,,11,1,1,1,air-firebomb,USAAF
+Japan,"Himeji, Japan",6/21/1945,6/21/1945,341,341,,341,1,1,1,air-firebomb,USAAF
+Japan,"Nagoya, Japan",6/20/1945,6/20/1945,426,426,,426,1,1,1,air-firebomb,USAAF
+Japan,"Toyohashi, Japan",6/18/1945,6/19/1945,624,624,,624,1,1,1,air-firebomb,USAAF
+Japan,"Shizuoka, Japan",6/18/1945,6/19/1945,"1,952","1,952",,1952,1,1,1,air-firebomb,USAAF
+Japan,"Fukuoka, Japan",6/18/1945,6/18/1945,902,902,,902,1,1,1,air-firebomb,USAAF
+Japan,"Yokkaichi, Japan",6/17/1945,6/17/1945,736,736,,736,1,1,1,air-firebomb,USAAF
+Japan,"Hamamatsu, Japan",6/17/1945,6/17/1945,"1,720","1,720",,1720,1,1,1,air-firebomb,USAAF
+Japan,"Kagoshima, Japan",6/16/1945,6/16/1945,"5,000","5,200",,5100,1,1,1,air-firebomb,USAAF
+Japan,"Osaka, Japan",6/14/1945,6/14/1945,418,418,,418,1,1,1,air-firebomb,USAAF
+Japan,"Chiba, Japan",6/9/1945,6/9/1945,152,152,,152,1,1,1,air-firebomb,USAAF
+Japan,"Hitachi, Japan",6/9/1945,6/9/1945,"1,200","1,200",,1200,1,1,1,air-firebomb,USAAF
+Japan,"Nagoya, Japan",6/8/1945,6/8/1945,"2,068","2,068",,2068,1,1,1,air-firebomb,USAAF
+Japan,"Osaka, Japan",6/6/1945,6/6/1945,"1,594","1,594",,1594,1,1,1,air-firebomb,USAAF
+Japan,"Kobe, Japan",6/4/1945,6/4/1945,"3,184","3,184",,3184,1,1,,air-firebomb,USAAF
+Japan,"Nara, Japan",5/31/1945,5/31/1945,231,231,,231,1,1,,air-firebomb,
+Japan,"Osaka, Japan",5/31/1945,5/31/1945,"3,150","3,150",,3150,1,1,1,air-firebomb,USAAF
+Japan,"Yokohama, Japan",5/28/1945,5/28/1945,"3,787","3,787",,3787,1,1,1,air-firebomb,USAAF
+Japan,"Tokyo, Japan",5/24/1945,5/24/1945,"3,651","3,651",,3651,1,1,1,air-firebomb,USAAF
+Japan,"Tokyo, Japan",5/23/1945,5/23/1945,762,762,,762,1,1,1,air-firebomb,USAAF
+Japan,"Nagoya, Japan",5/16/1945,5/17/1945,"8,079","8,079",,8079,1,1,,air-firebomb,USAAF
+Japan,"Kobe, Japan",5/10/1945,5/10/1945,"1,093","1,093",,1093,1,1,,air-firebomb,USAAF
+Japan,"Tokyo, Japan",4/14/1945,4/14/1945,841,841,,841,1,1,1,air-firebomb,USAAF
+Japan,"Tokyo, Japan",4/12/1945,4/13/1945,"2,459","2,459",,2459,1,1,1,air-firebomb,USAAF
+Japan,"Nagoya, Japan",3/17/1945,3/18/1945,"1,037","1,037",,1037,1,1,1,air-firebomb,USAAF
+Japan,"Kobe, Japan",3/15/1945,3/16/1945,"2,598","2,598",,2598,1,1,1,air-firebomb,USAAF
+Japan,"Osaka, Japan",3/13/1945,3/14/1945,"3,115","3,115",,3115,1,1,1,air-firebomb,USAAF
+Japan,"Nagoya, Japan",3/11/1945,3/12/1945,602,602,,602,1,1,1,air-firebomb,USAAF
+Japan,"Tokyo, Japan",3/7/1945,3/7/1945,"80,000","100,000",100000,90000,1,1,1,air-firebomb,USAAF
+United Kingdom,London,9/7/1940,9/7/1940,430,430,,430,1,1,,air-firebomb,LUFTW
+United Kingdom,Liverpool,5/1/1941,5/8/1941,"1,750","1,750",,1750,1,1,,air-firebomb,LUFTW
+United Kingdom,Liverpool,8/9/1940,11/29/1940,35,35,,35,1,1,,air-firebomb,LUFTW
+United Kingdom,Bristol,11/24/1940,5/15/1944,657,657,,657,1,1,,air-firebomb,LUFTW
+United Kingdom,Cardiff,7/3/1940,7/2/1942,355,355,,355,1,1,,air-firebomb,LUFTW
+United Kingdom,Hull,6/19/1940,5/3/1945,"1,200","1,200",,1200,1,1,,air-firebomb,LUFTW
+United Kingdom,Portsmouth,7/11/1940,5/31/1944,"40,000","40,000",,40000,1,1,,air-firebomb,LUFTW
+United Kingdom,Plymouth,4/22/1941,4/23/1941,76,76,,76,1,1,,air-firebomb,LUFTW
+United Kingdom,Plymouth,3/20/1941,3/21/1941,292,292,,292,1,1,,air-firebomb,LUFTW
+United Kingdom,Southampton,11/30/1940,11/30/1940,630,630,,630,1,1,,air-firebomb,LUFTW
+United Kingdom,Swansea,2/19/1941,2/21/1941,227,227,,227,1,1,,air-firebomb,LUFTW
+United Kingdom,Birmingham,10/25/1940,10/25/1940,19,19,,19,1,1,,air-firebomb,LUFTW
+United Kingdom,Birmingham,11/19/1940,11/28/1940,796,796,,796,1,1,,air-firebomb,LUFTW
+United Kingdom,Birmingham,4/9/1941,4/10/1941,"1,121","1,121",,1121,1,1,,air-firebomb,LUFTW
+United Kingdom,Belfast,4/7/1941,4/16/1941,"1,043","1,043",,1043,1,1,,air-firebomb,LUFTW
+United Kingdom,Belfast,5/4/1941,5/4/1941,200,200,,200,1,1,,air-firebomb,LUFTW
+United Kingdom,Coventry,11/14/1940,11/14/1941,380,554,,467,1,1,,air-firebomb,LUFTW
+United Kingdom,Glasgow,3/13/1941,3/14/1941,528,528,,528,1,1,,air-firebomb,LUFTW
+United Kingdom,Manchester,12/22/1940,12/24/1940,684,684,,684,1,1,,air-firebomb,LUFTW
+Japan,"Nagasaki, Japan",8/8/1945,8/8/1945,"60,000","80,000",,70000,1,1,1,air-nuclear,USAAF
+Japan,"Hiroshima, Japan",8/4/1945,8/4/1945,"90,000","166,000",,128000,1,0.95,1,air-nuclear,USAAF
+Austria,,9/1/1939,8/31/1945,50000,65000,61000,57500,,1,,holocaust-jewish,
+Belgium,,9/1/1939,8/31/1945,25000,29000,29000,27000,,1,,holocaust-jewish,
+Czechoslovakia,,9/1/1939,8/31/1945,77000,78300,82000,77650,,1,,holocaust-jewish,
+Denmark,,9/1/1939,8/31/1945,60,116,0,88,,1,,holocaust-jewish,
+Estonia,,9/1/1939,8/31/1945,1500,2000,2000,1750,,1,,holocaust-jewish,
+France,,9/1/1939,8/31/1945,75000,77000,81000,76000,,1,,holocaust-jewish,
+Germany,,9/1/1939,8/31/1945,135000,142000,147000,138500,,1,,holocaust-jewish,
+Greece,,9/1/1939,8/31/1945,59000,67000,67000,63000,,1,,holocaust-jewish,
+Hungary,,9/1/1939,8/31/1945,50000,50000,,50000,,1,,,
+Hungary,,9/1/1939,8/31/1945,340000,569000,,454500,,1,,holocaust-jewish,
+Italy,,9/1/1939,8/31/1945,6500,9000,8000,7750,,1,,holocaust-jewish,
+Latvia,,9/1/1939,8/31/1945,70000,72000,75000,71000,,1,,holocaust-jewish,
+Lithuania,,9/1/1939,8/31/1945,130000,143000,145000,136500,,1,,holocaust-jewish,
+Luxembourg,,9/1/1939,8/31/1945,1000,2000,2000,1500,,1,,holocaust-jewish,
+Netherlands,,9/1/1939,8/31/1945,100000,105000,109000,102500,,1,,holocaust-jewish,
+Norway,,9/1/1939,8/31/1945,800,800,1000,800,,1,,holocaust-jewish,
+Poland,,9/1/1939,8/31/1945,2700000,3000000,3021000,2850000,,1,,holocaust-jewish,
+Romania,,9/1/1939,8/31/1945,121000,287000,216000,204000,,1,,holocaust-jewish,
+Soviet Union,,9/1/1939,8/31/1945,700000,1100000,954000,900000,,1,,holocaust-jewish,
+Yugoslavia,,9/1/1939,8/31/1945,56000,65000,64000,60500,,1,,holocaust-jewish,
+Slovakia,,9/1/1939,8/31/1945,60000,71000,69000,65500,,1,,holocaust-jewish,
+United Kingdom,,7/1/1942,7/1/1942,3086,3086,,3086,,0,,,
+United Kingdom,,12/1/1942,12/1/1942,3857,3857,,3857,,0,,,
+United Kingdom,,2/1/1943,2/1/1943,3086,3086,,3086,,0,,,
+United Kingdom,,7/1/1944,7/1/1944,18129,18129,,18129,,0,,,
+United Kingdom,,6/1/1945,6/1/1945,1543,1543,,1543,,0,,,
+United Kingdom,,3/1/1941,3/1/1941,2700,2700,,2700,,0,,,
+United Kingdom,,5/1/1944,5/1/1944,7715,7715,,7715,,0,,,
+United Kingdom,,10/1/1942,10/1/1942,8100,8100,,8100,,0,,,
+United Kingdom,,4/1/1944,4/1/1944,5786,5786,,5786,,0,,,
+United Kingdom,,12/1/1945,12/1/1945,1157,1157,,1157,,0,,,
+United Kingdom,,8/1/1944,8/1/1944,11572,11572,,11572,,0,,,
+United Kingdom,,12/1/1940,12/1/1940,2314,2314,,2314,,0,,,
+United Kingdom,,9/1/1939,9/1/1939,386,386,,386,,0,,,
+United Kingdom,,8/1/1940,8/1/1940,1543,1543,,1543,,0,,,
+United Kingdom,,4/1/1940,4/1/1940,1157,1157,,1157,,0,,,
+United Kingdom,,5/1/1940,5/1/1940,21215,21215,,21215,,0,,,
+United Kingdom,,10/1/1941,10/1/1941,1157,1157,,1157,,0,,,
+United Kingdom,,4/1/1941,4/1/1941,4629,4629,,4629,,0,,,
+United Kingdom,,9/1/1942,9/1/1942,5014,5014,,5014,,0,,,
+United Kingdom,,5/1/1942,5/1/1942,5014,5014,,5014,,0,,,
+United Kingdom,,6/1/1943,6/1/1943,5014,5014,,5014,,0,,,
+United Kingdom,,4/1/1943,4/1/1943,10029,10029,,10029,,0,,,
+United Kingdom,,10/1/1943,10/1/1943,4243,4243,,4243,,0,,,
+United Kingdom,,6/1/1941,6/1/1941,3857,3857,,3857,,0,,,
+United Kingdom,,9/1/1944,9/1/1944,25844,25844,,25844,,0,,,
+United Kingdom,,7/1/1945,7/1/1945,1929,1929,,1929,,0,,,
+United Kingdom,,1/1/1942,1/1/1942,3472,3472,,3472,,0,,,
+United Kingdom,,6/1/1944,6/1/1944,21601,21601,,21601,,0,,,
+United Kingdom,,6/1/1942,6/1/1942,5400,5400,,5400,,0,,,
+United Kingdom,,3/1/1943,3/1/1943,6943,6943,,6943,,0,,,
+United Kingdom,,1/1/1944,1/1/1944,5786,5786,,5786,,0,,,
+United Kingdom,,11/1/1942,11/1/1942,10029,10029,,10029,,0,,,
+United Kingdom,,2/1/1945,2/1/1945,6172,6172,,6172,,0,,,
+United Kingdom,,5/1/1943,5/1/1943,5786,5786,,5786,,0,,,
+United Kingdom,,11/1/1939,11/1/1939,1929,1929,,1929,,0,,,
+United Kingdom,,7/1/1943,7/1/1943,7329,7329,,7329,,0,,,
+United Kingdom,,9/1/1945,9/1/1945,1929,1929,,1929,,0,,,
+United Kingdom,,4/1/1942,4/1/1942,1929,1929,,1929,,0,,,
+United Kingdom,,11/1/1940,11/1/1940,771,771,,771,,0,,,
+United Kingdom,,2/1/1944,2/1/1944,10800,10800,,10800,,0,,,
+United Kingdom,,3/1/1944,3/1/1944,5400,5400,,5400,,0,,,
+United Kingdom,,4/1/1945,4/1/1945,8872,8872,,8872,,0,,,
+United Kingdom,,1/1/1943,1/1/1943,5786,5786,,5786,,0,,,
+United Kingdom,,1/1/1945,1/1/1945,6557,6557,,6557,,0,,,
+United Kingdom,,3/1/1945,3/1/1945,9643,9643,,9643,,0,,,
+United Kingdom,,10/1/1939,10/1/1939,771,771,,771,,0,,,
+United Kingdom,,6/1/1940,6/1/1940,10029,10029,,10029,,0,,,
+United Kingdom,,5/1/1941,5/1/1941,3086,3086,,3086,,0,,,
+United Kingdom,,8/1/1945,8/1/1945,1929,1929,,1929,,0,,,
+United Kingdom,,8/1/1943,8/1/1943,6557,6557,,6557,,0,,,
+United Kingdom,,11/1/1943,11/1/1943,6943,6943,,6943,,0,,,
+United Kingdom,,9/1/1943,9/1/1943,5014,5014,,5014,,0,,,
+United Kingdom,,12/1/1943,12/1/1943,5786,5786,,5786,,0,,,
+United Kingdom,,10/1/1944,10/1/1944,9643,9643,,9643,,0,,,
+United Kingdom,,1/1/1946,1/1/1946,771,771,,771,,0,,,
+United Kingdom,,7/1/1940,7/1/1940,386,386,,386,,0,,,
+United Kingdom,,12/1/1941,12/1/1941,3472,3472,,3472,,0,,,
+United Kingdom,,12/1/1944,12/1/1944,7329,7329,,7329,,0,,,
+United Kingdom,,12/1/1939,12/1/1939,386,386,,386,,0,,,
+United Kingdom,,8/1/1941,8/1/1941,1543,1543,,1543,,0,,,
+United Kingdom,,11/1/1944,11/1/1944,4629,4629,,4629,,0,,,
+United Kingdom,,1/1/1941,1/1/1941,1929,1929,,1929,,0,,,
+United Kingdom,,2/1/1942,2/1/1942,8100,8100,,8100,,0,,,
+United Kingdom,,5/1/1945,5/1/1945,3472,3472,,3472,,0,,,
+United Kingdom,,11/1/1945,11/1/1945,386,386,,386,,0,,,
+United Kingdom,,4/1/1946,4/1/1946,771,771,,771,,0,,,
+United Kingdom,,11/1/1941,11/1/1941,3472,3472,,3472,,0,,,
+United Kingdom,,2/1/1941,2/1/1941,1543,1543,,1543,,0,,,
+United Kingdom,,8/1/1942,8/1/1942,771,771,,771,,0,,,
+United Kingdom,,2/1/1940,2/1/1940,771,771,,771,,0,,,
+United Kingdom,,9/1/1941,9/1/1941,386,386,,386,,0,,,
+United Kingdom,,7/1/1941,7/1/1941,1157,1157,,1157,,0,,,
+United Kingdom,,2/1/1946,2/1/1946,1157,1157,,1157,,0,,,
+United Kingdom,,1/1/1940,1/1/1940,386,386,,386,,0,,,
+United Kingdom,,3/1/1942,3/1/1942,3086,3086,,3086,,0,,,
+United Kingdom,,10/1/1945,10/1/1945,1157,1157,,1157,,0,,,
+United Kingdom,,10/1/1940,10/1/1940,386,386,,386,,0,,,
+United Kingdom,,3/1/1946,3/1/1946,386,386,,386,,0,,,
