@@ -7,7 +7,11 @@ In this project, I would like to represent the loss of human life across the wor
 
 ## Running the code on Local Machine: 
  
-Copy the source code folder ‘src’ from loop. 2. Install Python latest version if not available. (Make sure to select the check box to add python to PATH variables). 3. Navigate to folder ‘src’ on local machine. 4. Run command ‘python –m http.server 8888 &’ (without quotes and make sure no other website is running on port 888). 5. Open Chrome browser and navigate to URL ‘http://localhost:8888/cover.html’. 
+1. Copy the source code folder *'src'*.
+2. Install Python latest version if not available. (Make sure to select the check box to add python to PATH variables).
+3. Navigate to folder ‘src’ on local machine.
+4. Run command ‘python –m http.server 8888 &’ (without quotes and make sure no other website is running on port 888).
+5. Open Chrome browser and navigate to URL ‘http://localhost:8888/cover.html’. 
 
 
 ## Source: Wikipedia. 
